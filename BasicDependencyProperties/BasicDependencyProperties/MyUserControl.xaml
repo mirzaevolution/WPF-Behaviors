@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="BasicDependencyProperties.MyUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BasicDependencyProperties"
+             
+             mc:Ignorable="d" Height="52" Width="329.333">
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Text="{Binding Value,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" FontSize="18" VerticalAlignment="Center" BorderBrush="Black" Margin="10" Padding="2"/>
+        <TextBlock Text="{Binding Value,StringFormat='Current Speed: {0}'}" Grid.Column="1" FontSize="18" VerticalAlignment="Center" Margin="10"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,17 @@
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\bin\Debug\BasicDependencyProperties.exe.config
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\bin\Debug\BasicDependencyProperties.exe
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\bin\Debug\BasicDependencyProperties.pdb
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties.csprojResolveAssemblyReference.cache
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\MyUserControl.g.cs
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\App.g.cs
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties_MarkupCompile.cache
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties_MarkupCompile.lref
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\MainWindow.baml
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\MyUserControl.baml
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties.g.resources
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties.Properties.Resources.resources
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties.csproj.GenerateResource.Cache
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties.exe
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\BasicDependencyProperties\obj\Debug\BasicDependencyProperties.pdb

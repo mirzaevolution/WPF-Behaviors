@@ -1,0 +1,16 @@
+﻿<Window x:Class="AttachedPropertiesDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AttachedPropertiesDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="222.8" Width="297">
+    <Grid local:ControlBackgroundTypes.BackgroundType="Info">
+        <Border Width="120" Height="100" HorizontalAlignment="Center" VerticalAlignment="Center"
+                BorderBrush="White" local:ControlBackgroundTypes.BackgroundType="Danger" Margin="10">
+            <Label Content="Hello World" HorizontalAlignment="Center" VerticalAlignment="Center"
+                       FontSize="18" Foreground="White" local:ControlBackgroundTypes.BackgroundType="Primary"/>
+        </Border>
+    </Grid>
+</Window>

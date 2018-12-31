@@ -1,0 +1,15 @@
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\bin\Debug\AttachedPropertiesDemo.exe.config
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\bin\Debug\AttachedPropertiesDemo.exe
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\bin\Debug\AttachedPropertiesDemo.pdb
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.csprojResolveAssemblyReference.cache
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\App.g.cs
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo_MarkupCompile.cache
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo_MarkupCompile.lref
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\MainWindow.baml
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.g.resources
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.Properties.Resources.resources
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.csproj.GenerateResource.Cache
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.exe
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.pdb
+D:\Programming\WPF Rewind\Behaviours\BasicDependencyProperties\AttachedPropertiesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs

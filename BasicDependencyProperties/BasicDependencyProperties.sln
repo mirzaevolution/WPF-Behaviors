@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachedPropertiesDemo", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlendBehaviorBasic", "BlendBehaviorBasic\BlendBehaviorBasic.csproj", "{76FBF4F8-E3D7-4398-A5BD-A74FE8E85147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokeCommandAndCallMethod", "InvokeCommandAndCallMethod\InvokeCommandAndCallMethod.csproj", "{D8F05E33-CAAF-42FC-86A4-36E6FC552D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitDataTemplate", "ImplicitDataTemplate\ImplicitDataTemplate.csproj", "{6B10965A-CA6C-4E66-94CF-EA8567ACC633}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{76FBF4F8-E3D7-4398-A5BD-A74FE8E85147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76FBF4F8-E3D7-4398-A5BD-A74FE8E85147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76FBF4F8-E3D7-4398-A5BD-A74FE8E85147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F05E33-CAAF-42FC-86A4-36E6FC552D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F05E33-CAAF-42FC-86A4-36E6FC552D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F05E33-CAAF-42FC-86A4-36E6FC552D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F05E33-CAAF-42FC-86A4-36E6FC552D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B10965A-CA6C-4E66-94CF-EA8567ACC633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B10965A-CA6C-4E66-94CF-EA8567ACC633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B10965A-CA6C-4E66-94CF-EA8567ACC633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B10965A-CA6C-4E66-94CF-EA8567ACC633}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
